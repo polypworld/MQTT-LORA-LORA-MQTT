@@ -3,6 +3,8 @@ Ezzel a rendszerrel a hatótáv akár több km is lehet.
 Szükség van egy bridgere a HomeAssistant közelében: ő rakja át a LoRa rádión érkező adatokat WiFi hálózatra.
 A másik végén a rendszernek akár 32 LoRa kliens is lehet, kliensenként 4-8 (hw függő) szabványos WiFi MQTT eszköz csatlakozási lehetőséggel (kliensenként).
 
+Az MQTT discovery biztonsági okok miatt nem került beépítésre: példa HomeAssistant konfiguráció később...
+
 # LoRa ↔ MQTT Bridge ESP32 (SX1262)
 
 ESP32 alapú LoRa–MQTT átjáró SX1262 rádióhoz, amely titkosított, megbízható kétirányú kommunikációt biztosít LoRa node-ok és MQTT rendszerek (pl. Home Assistant) között.
