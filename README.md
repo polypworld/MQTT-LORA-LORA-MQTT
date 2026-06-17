@@ -397,5 +397,3 @@ ________________________________________
 ✅ PSRAM támogatás<br/><br/>
 Ez a projekt gyakorlatilag egy önálló, biztonságos, alacsony fogyasztású LoRa MQTT végpont, amely közvetlenül képes szenzorok, Home Assistant eszközök vagy egyedi IoT kliensek (ESPhome, WLED, Shelly, Tasmota…) LoRa hálózatba integrálására.<br/>
 
-A szoftver egészének vagy bármely részletének a tulajdonjogát fenntartom magamnak. Felhasználását kereskedelmi rendszerekben sem részben, sem egészben nem engedélyezem. Forgalmazását nem engedélyezem.  Felhasználása magán felhasználónak, egyedi otthoni használatra, a szoftver módosítása nélkül engedélyezett. A módosítás tilalma nem terjed ki a felhasználónevek, jelszavak, ip címek beállítására.
-
